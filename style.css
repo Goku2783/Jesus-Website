@@ -1,0 +1,65 @@
+
+body {color: #0bda3f;
+     font-size: 25px;
+     background-image: url(stars.JPG);}
+
+div {font-family: "Times New Roman", Times, serif;;
+     color: #f5b914;}
+
+h1 {text-align: center;
+    font-size: 70px;
+    font-family: "Brush Script MT", Courier, monospace;
+    color: #f98a2f;}
+
+p {text-indent: 2em; 
+   font-family: Arial, Helvetica, sans-serif; 
+   font-size: 20px;}
+
+h2, h3 {text-align: center;
+        font-size: 40px;
+        color: #04fbeb;}
+
+img {border: 8px solid #eb9a05;
+     margin: 20px;}
+
+.image-spacing {margin-right: 100px;}
+
+.word-spacing {word-spacing: 420px; color: #5ff75f}
+
+.background-color {background-color: white;}
+
+#center1 {display: block; margin-left: auto; 
+          margin-right: auto; width: 10%; 
+          height: 30%;}
+
+#center2 {display: block; margin-left: auto;
+          margin-right: auto; width: 40%; 
+          height: 80%;}
+
+ol {list-style-type: lower-alpha;}
+ul {list-style-type: lower-greek;}
+
+table {border-collapse: collapse;
+      margin-left: 60px;
+      margin-bottom: 100px;
+      margin-top: 40px;}
+
+caption {font-size: 50px}
+
+thead {background-color: #bdbcbc;}
+
+thead th:hover {background-color: yellow;}
+
+tbody td:first-child {background-color:#9ce29c}
+
+th {border: 4px solid #359244;
+    padding: 10px 30px 10px;
+    color: black;}
+
+td {border: 4px solid #359244;
+    padding: 10px 30px 10px;
+    background-color: #fafafa;
+    color: black; font-size: 15px;}
+ 
+a {color: white;}
+a:hover {color: orange;}
