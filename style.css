@@ -22,11 +22,11 @@ h2, h3 {text-align: center;
 img {border: 8px solid #eb9a05;
      margin: 20px;}
 
-.image-spacing {margin-right: 100px;}
+.image-spacing {margin-right: 100;}
 
 .word-spacing {word-spacing: 420px; color: #5ff75f}
 
-.background-color {background-color: white;}
+.background-color {background-color: #effb93;}
 
 #center1 {display: block; margin-left: auto; 
           margin-right: auto; width: 10%; 
